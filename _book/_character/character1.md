@@ -1,10 +1,3 @@
-<!DOCTYPE html5>
-<html>
-<title>Hello Strapdown</title>
-
-<xmp theme="united" style="display:none;">
-# Markdown text goes in here
-
 #**第一章：如何成为一名地下城主**
 ***
 
@@ -66,7 +59,3 @@ d&d最重要的一环就是乐趣。取悦玩家使他们都觉得开心并非�
 不同人对什么是d&d的乐趣有不同的见解。谨记：所有人都认同并乐在其中的游戏方式才是“正确”的游戏方式。如果围坐在一起的每个人都乐意为游戏贡献力量，大家就能共享乐趣。
 ***
 
-
-</xmp>
-<script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
-</html>
