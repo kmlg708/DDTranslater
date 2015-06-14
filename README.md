@@ -4,8 +4,8 @@
 
 
 ##第一章：如何成为地下城主
-- [游戏队伍](_book/_character/1-如何成为一名地下城主.md)
-- [玩家](_book/_character/2.玩家.md)
+- [游戏队伍](_character/1-如何成为一名地下城主.md)
+- [玩家](_character/2.玩家.md)
 - 地下城主
 - 团规
 
