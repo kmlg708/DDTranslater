@@ -3,11 +3,11 @@
 
 
 
-##第一章：如何成为地下城主
-- [游戏队伍](_character/1如何成为一名地下城主.md)
-- [玩家](_character/2玩家.md)
-- [地下城主](_character/3地下城主.md)
-- [团规](_character/4团规.md)
+##[第一章：如何成为地下城主](_character/c1/0如何成为一名地下城主.md)
+- [游戏队伍](_character/c1/1如何成为一名地下城主.md)
+- [玩家](_character/c1/2玩家.md)
+- [地下城主](_character/c1/3地下城主.md)
+- [团规](_character/c1/4团规.md)
 
 
 >####第二章：带团
