@@ -18,14 +18,14 @@
 
 - [准备工作](_character/C2/1准备工作.md)
 - [开始游戏](_character/C2/2开始游戏.md)
-
->- 游戏模式
->- 叙事
->- 步调
->- 辅助工具
->- 分配信息
->- 即兴发挥
->- 结团
+- [游戏模式](_character/C2/3游戏模式.md)
+- [叙事](_character/C2/4叙事.md)
+- [步调](_character/C2/5步调.md)
+- [辅助工具](_character/C2/6辅助工具.md)
+- [分配信息](_character/C2/7分配信息.md)
+- [即兴发挥](_character/C2/8即兴发挥.md)
+- [结团](_character/C2/9结团.md)
+ 
 >- 解决麻烦
 >- 教授游戏
 
